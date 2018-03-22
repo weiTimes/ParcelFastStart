@@ -1,0 +1,8 @@
+node_modules/
+.history/
+.cache/
+.vscode/
+.idea/
+build/
+dist/
+yarn-error.log
